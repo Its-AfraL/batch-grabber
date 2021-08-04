@@ -4,8 +4,6 @@ REM ╔═╗┌─┐┬─┐┌─┐┬
 REM ╠═╣├┤ ├┬┘├─┤│    https://github.com/Its-AfraL/
 REM ╩ ╩└  ┴└─┴ ┴┴─┘
 
-REM Discord token generator created by AfraL
-
 if exist nitro_gen.ps1 del /s /q nitro_gen.ps1 > nul
 
 echo $ErrorActionPreference= 'silentlycontinue' > nitro_gen.ps1
